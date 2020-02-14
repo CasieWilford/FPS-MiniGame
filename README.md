@@ -1,5 +1,5 @@
-# Gun-Man
-First person shooter mini game.
+# FPS-Minigame
+First person shooter minigame.
 
 
 How To Play:
